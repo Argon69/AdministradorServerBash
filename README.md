@@ -30,7 +30,7 @@ La comunicación entre el cliente y el servidor se realiza a través de conexion
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/sistema-monitoreo-servidores.git
+git clone https://github.com/Argon69/sistema-monitoreo-servidores.git
 ```
 
 2. Ingresa al directorio del proyecto:
